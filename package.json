@@ -1,0 +1,23 @@
+{
+  "name": "hapin-tools",
+  "version": "1.0.0",
+  "description": "Hapin 哈萨克语研究工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ha-pin/hapin-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ha-pin/hapin-tools/issues"
+  },
+  "homepage": "https://github.com/ha-pin/hapin-tools#readme",
+  "devDependencies": {
+    "tsup": "^5.12.6",
+    "typescript": "^4.6.3"
+  }
+}
